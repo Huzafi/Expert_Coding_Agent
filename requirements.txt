@@ -1,0 +1,4 @@
+
+nest-asyncio>=1.6.0
+openai-agents>=0.2.10
+streamlit>=1.49.1
